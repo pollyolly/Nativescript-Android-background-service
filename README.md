@@ -1,4 +1,4 @@
-# test-background-service
+# Nativescript Vue background-service
 
 Nativescript Vue Background Service Execution
 
